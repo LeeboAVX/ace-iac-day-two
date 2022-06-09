@@ -3,7 +3,7 @@ terraform {
   backend "remote" {
     organization = "ritw"
     workspaces {
-      name = "ace-iac-day-two"
+      name = "ave-iav-day-two"
     }
   }
 }
